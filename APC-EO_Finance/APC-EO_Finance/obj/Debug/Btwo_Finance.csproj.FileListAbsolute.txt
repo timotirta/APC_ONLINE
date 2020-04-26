@@ -1,0 +1,53 @@
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\Btwo_Finance.csprojAssemblyReference.cache
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAccPengeluaran.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAEPO.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAP.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAR.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormCashAdv.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormCEO.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormFinance.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormItem.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKaryawan.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKepCab.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKlien.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLiquidation.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLoading.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLogin.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormParent.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormPenggajian.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormPetty.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormProject.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormTampilReport.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormTampilSementara.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormVendor.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.Properties.Resources.resources
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\Btwo_Finance.csproj.GenerateResource.cache
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\Btwo_Finance.csproj.CoreCompileInputs.cache
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC-EO_Finance.exe
+C:\Users\Tm_Tr\source\repos\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC-EO_Finance.pdb
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\Btwo_Finance.csprojAssemblyReference.cache
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAccPengeluaran.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAEPO.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAP.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormAR.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormCashAdv.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormCEO.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormFinance.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormItem.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKaryawan.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKepCab.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormKlien.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLiquidation.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLoading.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormLogin.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormParent.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormPenggajian.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormPetty.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormProject.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormTampilReport.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormTampilSementara.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.FormVendor.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC_EO_Finance.Properties.Resources.resources
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\Btwo_Finance.csproj.GenerateResource.cache
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC-EO_Finance.exe
+C:\Users\djordi\Downloads\Kirim Jordi\btwo new ver\APC-EO_Finance\APC-EO_Finance\obj\Debug\APC-EO_Finance.pdb
